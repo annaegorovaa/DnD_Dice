@@ -8,5 +8,5 @@ function rollDice(n) {
 }
 
 function getRandom(n) {
-  return Math.round(Math.random() * n);
+  return Math.ceil(Math.random() * n);
 }
