@@ -9,6 +9,6 @@
   "author": "Anna Egorova",
   "license": "ISC",
   "devDependencies": {
-    "eslint": "^5.5.0"
+    "eslint": "^5.13.0"
   }
 }
